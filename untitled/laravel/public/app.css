@@ -1,0 +1,9 @@
+body {
+    background: lightblue;
+    color: black;
+    font-family: "Arial Black", monospace;
+}
+
+div.attributes {
+    line-height: 1.6cm;
+}
